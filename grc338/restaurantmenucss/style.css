@@ -7,7 +7,7 @@ h1{
     padding: 1em 2em 3em 1.5em 0.5em;
     text-transform: uppercase;
     text-align: center;
-    Margin: 2em 2em 2em 2em;
+    Margin: 2em 2em .5em 2em;
 }
 
 h2{
@@ -16,6 +16,7 @@ h2{
     font-family: sans-serif;
     text-transform: uppercase;
     text-align: center;
+    margin: 0em 0em 2em 0em;
 }
 
 h3{
