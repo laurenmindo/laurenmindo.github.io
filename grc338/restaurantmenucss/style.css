@@ -1,6 +1,6 @@
 /* CSS Document */
 
-h1 {
+h1{
     color: rgb(57, 104, 192);
     font-size: 4em;
     font-family: sans-serif;
@@ -10,7 +10,7 @@ h1 {
     Margin: 3em 2em 3em 2em;
 }
 
-h2 {
+h2{
     color: rgb(131, 158, 207);
     font-size: 3em;
     font-family: sans-serif;
@@ -18,24 +18,23 @@ h2 {
     text-align: center;
 }
 
-h3 {
+h3{
     color: rgb(0, 0, 0);
     font-size: 2em;
     font-family: sans-serif;
 }
 
-h4 {
+h4{
     color:black;
     font-size: 1em;
     font-family: sans-serif;
 }
 
-li {
+li{
     list-style-type: none;
     padding: o;
 }
 
-body {
+body{
     background-color: rgb(245, 231, 187)
 }
-
