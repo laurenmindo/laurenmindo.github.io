@@ -1,0 +1,65 @@
+/*CSS DOCUMENT*/
+
+
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,time, mark, audio, video {margin: 0;	padding: 0;	border: 0;	vertical-align: baseline;} /*My edited version of the Eric Meyer’s reset tool. Feel free to keep it or delete it. */
+
+img {
+    width: 100%; /*Please leave this line.*/
+
+}
+
+/*By the way, when we use the slash-asterisk combo, it’s a comment on the CSS and it’s meant for human beings. The machine knows it is not supposed to process anything until it finds a asterisk-slash combo that ends the comment on the CSS. */
+
+h1{
+    color:rgb(182, 26, 57); 
+    text-align: center;
+    font-size: 3em;
+    Margin: 2em 2em 0em 2em;
+    font-family: cursive;
+
+
+}
+
+h2{
+    color:rgb(28, 133, 19);
+    font-family: sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    Margin: 0.3em 2em 2em 2em;
+}
+
+h3{
+    color:rgb(28, 133, 19);
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin: 2em 2em 0.5em 2em;
+}
+
+body{
+    background-color: rgb(253, 242, 207)
+}
+
+h6{
+    font-family: sans-serif;
+    margin: 10em 10em 5em 10em;
+    text-align: center;
+}
+
+
+figure{
+    font-size: .90em;
+    text-align: center;
+    font-family:sans-serif;
+    font-style: italic;
+    margin: 1em 4em 4em 4em;
+}
+
+ul{
+    list-style-type: bullet;
+    margin: .5em 2em 0.5em 4em;
+}
+
+ol{
+    list-style-type: bullet;
+    margin: .5em 2em 0.5em 4em;
+}
