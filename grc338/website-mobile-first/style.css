@@ -1,0 +1,79 @@
+/*CSS DOCUMENT*/
+
+html{
+    font-family: serif;
+    background: #fffab2;
+}
+img {
+    width: 100%;
+}
+
+nav ul {
+    padding: 2em;
+}
+
+nav ul li {
+    display: inline;
+    list-style-type: none;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.3em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    float: left;
+    margin-top: 2.5em;
+}
+
+nav ul li a {
+    color: #624da0;
+    text-decoration: none;
+    padding: 30px;
+}
+
+nav ul li a:hover {
+    color: #000000;
+}
+
+
+h1{
+    width: 5em;
+    float: left;
+}
+
+h2{
+    color: #624da0;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 2em;
+    padding-bottom: 1em;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-family: sans-serif;
+    padding-top: 1.5em;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0%;
+}
+
+footer{
+    background-color: #624da0;
+    color: #ffffffaa;
+    text-align: center;
+    padding: 3em;
+}
+
+body {
+    text-align: center;
+}
+
+article {
+    padding-bottom: 8em;
+}
+
+
+/*Please don’t change this CSS stylesheet for the content hierarchy assginment */
